@@ -1,3 +1,19 @@
 # Summary
-
-- [Chapter 1](./chapter_1.md)
+- [Introduction](introduction.md)
+- [Pure Scan Approach](pure.md)
+  - [Algorithm 1](algo1.md)
+  - [Normalize or not](norm.md)
+  - [Last term](last.md)
+  - [Start scan value](scan1.md)
+  - [Last scan value](last.md)
+- [Factor approach](factor.md)
+  - [Penultimate term](penultimate.md)
+  - [Penultimate tradeoff](tradoff.md)
+- [Published work](pub.md)
+  - [Interger Sequence](OEIS.md)
+  - [Egyprian Fraction references](references.md)
+- [Multiprocessor algorithm](multi.md)
+  - [OpenMPI](openmpi.md)
+  - [Timeout approach](timeout.md)
+  - [Estimation approach](estimation.md)
+  
